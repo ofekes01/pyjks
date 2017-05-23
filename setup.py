@@ -55,7 +55,8 @@ setup(
                       'pyasn1_modules',
                       'javaobj-py3',
                       'pycryptodome',
-                      'twofish'],
+#                      'twofish'
+                     ],
     test_suite="tests.test_jks",
 )
 
